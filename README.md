@@ -10,7 +10,7 @@
 
 <br/>
 <p align="centre"> 
-<a href="https://github.com/MohdumaR125?tab=followers"><img src="https://img.shields.io/github/followers/MohdumaR125?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/rahul9416?tab=followers"><img src="https://img.shields.io/github/followers/rahul9416?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 
 <h3><i>Tech Stack
